@@ -46,4 +46,4 @@ git fecth
 - Atualiza o novo histórico local de acordo com o histórico salvo no repositório remoto.
 - Sincronização do local com o remoto.
 
-# vai aparecer na master se o merge funcionar
+# vai aparecer na outra branch se funcionar
